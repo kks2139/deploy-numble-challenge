@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deploy-numble-challenge/static/css/main.3d0d6a44.chunk.css",
+    "main.js": "/deploy-numble-challenge/static/js/main.6d1d4724.chunk.js",
+    "main.js.map": "/deploy-numble-challenge/static/js/main.6d1d4724.chunk.js.map",
+    "runtime-main.js": "/deploy-numble-challenge/static/js/runtime-main.58631828.js",
+    "runtime-main.js.map": "/deploy-numble-challenge/static/js/runtime-main.58631828.js.map",
+    "static/js/2.78875096.chunk.js": "/deploy-numble-challenge/static/js/2.78875096.chunk.js",
+    "static/js/2.78875096.chunk.js.map": "/deploy-numble-challenge/static/js/2.78875096.chunk.js.map",
+    "static/js/3.aa00abd0.chunk.js": "/deploy-numble-challenge/static/js/3.aa00abd0.chunk.js",
+    "static/js/3.aa00abd0.chunk.js.map": "/deploy-numble-challenge/static/js/3.aa00abd0.chunk.js.map",
+    "index.html": "/deploy-numble-challenge/index.html",
+    "static/css/main.3d0d6a44.chunk.css.map": "/deploy-numble-challenge/static/css/main.3d0d6a44.chunk.css.map",
+    "static/js/2.78875096.chunk.js.LICENSE.txt": "/deploy-numble-challenge/static/js/2.78875096.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58631828.js",
+    "static/js/2.78875096.chunk.js",
+    "static/css/main.3d0d6a44.chunk.css",
+    "static/js/main.6d1d4724.chunk.js"
+  ]
+}
